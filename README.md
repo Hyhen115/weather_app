@@ -1,5 +1,7 @@
 # weather_app
  a weather app using flutter and openWeatherAPI
+ <p>below is only for weather condition preview uses</p>
+ <p>since its using openweatherAPI and the weatehr is cloudy, therefore the wording does not match the animation</p>
 
 <img width="364" alt="cloud" src="https://github.com/user-attachments/assets/eae69f09-3dfd-4336-8725-b9050c713ce7">
 <img width="375" alt="sun" src="https://github.com/user-attachments/assets/252a6704-1bc3-4192-af73-3edaf95c2be5">
